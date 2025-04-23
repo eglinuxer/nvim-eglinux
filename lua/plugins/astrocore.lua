@@ -47,6 +47,7 @@ return {
         wrap = true, -- sets vim.opt.wrap
         shiftwidth = 4,
         clipboard = "unnamedplus",
+        colorcolumn = "140",
       },
       g = { -- vim.g.<key>
         -- configure global vim variables (vim.g)
